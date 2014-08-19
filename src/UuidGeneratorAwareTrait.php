@@ -8,9 +8,6 @@ trait UuidGeneratorAwareTrait
     /** @var UuidInterface */
     private $uuid_generator;
 
-    /** @var UuidInterface */
-    private $uuid_generator;
-
     public function setUuidGenerator(UuidInterface $uuid_generator)
     {
         $this->uuid_generator = $uuid_generator;
