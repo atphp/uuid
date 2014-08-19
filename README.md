@@ -1,4 +1,4 @@
-uuid [![Build Status](https://travis-ci.org/andytruong/uuid.svg?branch=v0.1)](https://travis-ci.org/andytruong/uuid)
+uuid [![Build Status](https://travis-ci.org/andytruong/uuid.svg?branch=v0.1)](https://travis-ci.org/andytruong/uuid) [![License](https://poser.pugx.org/andytruong/uuid/license.png)](https://packagist.org/packages/andytruong/uuid)
 ====
 
 PHP UUID generator wrapper, copied from Drupal 8 code.
