@@ -1,0 +1,16 @@
+{
+    "name": "andytruong/uuid",
+    "type": "library",
+    "description": "Common tools for PHP",
+    "keywords": ["uuid", "generator"],
+    "homepage": "https://github.com/drupal/drupal/tree/8.0.x/core/lib/Drupal/Component/Uuid",
+    "license": "GPL-2.0",
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "AndyTruong\\Uuui\\": "src/"
+        }
+    }
+}
