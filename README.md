@@ -9,8 +9,7 @@ PHP UUID generator wrapper, copied from Drupal 8 code.
 <?php
 
 // Use inside your function
-$uuid_maker = AndyTruong\Uuid\Uuid::getGenerator();
-$uuid = $uid_maker->generate();
+$uuid = AndyTruong\Uuid\Uuid::getGenerator()->generate();
 
 // Use inside your library
 class MyClass {
