@@ -1,5 +1,5 @@
 {
-    "name": "andytruong/uuid",
+    "name": "atphp/uuid",
     "type": "library",
     "description": "Common tools for PHP",
     "keywords": ["uuid", "generator"],
