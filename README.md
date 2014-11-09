@@ -1,4 +1,4 @@
-uuid [![Build Status](https://travis-ci.org/atphp/uuid.svg?branch=v0.1)](https://travis-ci.org/atphp/uuid) [![License](https://poser.pugx.org/andytruong/uuid/license.png)](https://packagist.org/packages/andytruong/uuid)
+uuid [![Build Status](https://travis-ci.org/atphp/uuid.svg?branch=v0.1)](https://travis-ci.org/atphp/uuid) [![License](https://poser.pugx.org/atphp/uuid/license.png)](https://packagist.org/packages/atphp/uuid)
 ====
 
 PHP UUID generator wrapper, requires PHP >= 5.4, copied from Drupal 8 code.
